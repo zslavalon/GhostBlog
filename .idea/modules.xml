@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GhostBlog.iml" filepath="$PROJECT_DIR$/.idea/GhostBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamelife/gamelife.iml" filepath="$PROJECT_DIR$/gamelife/gamelife.iml" />
+    </modules>
+  </component>
+</project>
